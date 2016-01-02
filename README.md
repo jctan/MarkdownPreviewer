@@ -2,7 +2,7 @@
 
 Markdown editor with live previewer built in React.js (react-markdown, babel ES6 to react components, webpacker, eslint)
 
-## Running
+## Run
 
 ```bash
 cd markdownpreview
