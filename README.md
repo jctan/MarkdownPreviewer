@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-### Markdown editor with live previewer built in React.js (react-markdown, babel ES6 to react components, webpacker, eslint)
+#### Markdown editor with live previewer built in React.js (react-markdown, babel ES6 to react components, webpacker, eslint)
 
 - Built React DOM with webpack bundle for transforming resources
 - Transformed JSX to React components using Babel
